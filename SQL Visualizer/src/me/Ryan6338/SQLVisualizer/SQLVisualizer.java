@@ -1,4 +1,4 @@
-package me.Ryan6338.SQL_Visualizer;
+package me.Ryan6338.SQLVisualizer;
 
 import javax.swing.JFrame
 import javax.imageio.ImageIO
